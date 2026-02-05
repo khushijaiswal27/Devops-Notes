@@ -1,10 +1,10 @@
-# My DevOps Journey 🚀
+# My DevOps Journey - Day 1 🚀
 
-### Day 1: Introduction to DevOps
-I started my DevOps journey today with Technical Guftgu. In the first lecture, I focused on understanding the core concepts:
+Today, I watched the first lecture of Technical Guftgu. 
 
-* **What is DevOps:** Understanding the bridge between Development and Operations.
-* **SDLC Process:** How software is planned, built, and delivered.
-* **Why DevOps:** The importance of automation and speed in modern tech.
+### What I learned:
+* I understood the basic concept of DevOps (the "Why" and "What").
+* I learned about how software moves from planning to the final stage (SDLC).
+* Most importantly, I set up my environment: LinkedIn, GitHub, and Ubuntu Terminal.
 
-*Note: I have attached my handwritten rough notes below to track my daily progress.*
+*Sharing my handwritten rough notes below just to keep a record of my start!*
