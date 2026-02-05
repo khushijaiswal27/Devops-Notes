@@ -7,4 +7,4 @@ Today, I watched the first lecture of Technical Guftgu.
 * I learned about how software moves from planning to the final stage (SDLC).
 * Most importantly, I set up my environment: LinkedIn, GitHub, and Ubuntu Terminal.
 
-*Sharing my handwritten rough notes below just to keep a record of my start!*
+*Sharing my handwritten rough notes below just to keep a record of my start!* 
