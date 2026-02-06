@@ -8,7 +8,6 @@ Today, I watched the first lecture of Technical Guftgu.
 * Most importantly, I set up my environment: LinkedIn, GitHub, and Ubuntu Terminal.
 
 *Sharing my handwritten rough notes below just to keep a record of my start!* 
----
 ## Day 2: DevOps Lifecycle & Agile Methodology 🔄
 
 Today, I focused on how teams collaborate and the various stages involved in software delivery.
