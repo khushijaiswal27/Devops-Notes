@@ -22,6 +22,9 @@ Today, I focused on how teams collaborate and the various stages involved in sof
 **CI/CD pipeline- *Understanding the automation flow—Continuous Integration (using Git/Jenkins) and Continuous Deployment (using Maven).
 * **DevOps Lifecycle:** Studying the "Infinity Loop" process, covering everything from Planning and Coding to Monitoring.
 
+* # Day 2 Notes:
+* 
+
 ## Day 3: AWS EC2 Setup 🔄
 I have successfully launched and configured my first Linux server on AWS, following the Day 3 lecture of the DevOps series by Technical Guftgu (Imran Teli Sir).
 
