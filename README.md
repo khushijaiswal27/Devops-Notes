@@ -22,8 +22,24 @@ Today, I focused on how teams collaborate and the various stages involved in sof
 **CI/CD pipeline- *Understanding the automation flow—Continuous Integration (using Git/Jenkins) and Continuous Deployment (using Maven).
 * **DevOps Lifecycle:** Studying the "Infinity Loop" process, covering everything from Planning and Coding to Monitoring.
 
-*Note: I have added my handwritten diagrams of the DevOps logo and Agile framework in the repository!*
-# Day 2 Notes:
-##![WhatsApp Image 2026-02-06 at 1 33 26 PM](https://github.com/user-attachments/assets/0309a757-1143-480a-9daf-9376afb6f4fc)
-![WhatsApp Image 2026-02-06 at 1 33 26 PM (1)](https://github.com/user-attachments/assets/ee0bb75f-5c01-4fd1-a22e-80f956384941)
-![WhatsApp Image 2026-02-06 at 1 33 26 PM (2)](https://github.com/user-attachments/assets/cbebfb1b-f66c-44c8-8fb2-03e5f1d00cd0)
+## Day 3: AWS EC2 Setup 🔄
+I have successfully launched and configured my first Linux server on AWS, following the Day 3 lecture of the DevOps series by Technical Guftgu (Imran Teli Sir).
+
+🚀 Key Highlights:
+Instance Provisioning: Launched a Linux instance using t2.micro (Free Tier) in the AWS Mumbai Region (ap-south-1).
+
+Key Pair Management: Generated an RSA Key (.pem) and converted it to .ppk format using PuTTYgen for secure SSH access.
+
+Security Configuration: Configured Security Groups to allow SSH (Port 22) traffic for remote management.
+
+Health Verification: Successfully monitored and verified the instance with 3/3 Status Checks Passed (System, Instance, and EBS checks).
+
+📸 Lab Proof (Screenshots):
+<img width="1919" height="904" alt="Screenshot 2026-02-08 210504" src="https://github.com/user-attachments/assets/3c1519b3-587f-4d84-974a-8ccd4a39f5a7" />
+<img width="1877" height="837" alt="Screenshot 2026-02-08 195118" src="https://github.com/user-attachments/assets/155946d0-3248-40c7-a36e-928ffadf7aa4" />
+<img width="859" height="758" alt="Screenshot 2026-02-08 203642" src="https://github.com/user-attachments/assets/8be6e4dc-5b2b-4fd0-ab08-a419399c7555" />
+
+# Day 1 Notes:
+
+
+
