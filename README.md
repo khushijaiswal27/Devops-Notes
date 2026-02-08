@@ -1,4 +1,4 @@
-![WhatsApp Image 2026-02-06 at 1 33 26 PM (2)](https://github.com/user-attachments/assets/31b332b8-1db2-496a-8d99-557f8e250723)![WhatsApp Image 2026-02-06 at 1 33 26 PM (1)](https://github.com/user-attachments/assets/c56c8389-389c-435d-9a3e-bbca2738b839)# My DevOps Journey - Day 1 🚀
+# My DevOps Journey - Day 1 🚀
 
 Today, I watched the first lecture of Technical Guftgu. 
 
