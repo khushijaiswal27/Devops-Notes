@@ -45,6 +45,6 @@ Health Verification: Successfully monitored and verified the instance with 3/3 S
 <img width="859" height="758" alt="Screenshot 2026-02-08 203642" src="https://github.com/user-attachments/assets/8be6e4dc-5b2b-4fd0-ab08-a419399c7555" />
 
 # Day 3 Notes: 
-
-
-
+![Lecture-03-Notes-pg1 jpg](https://github.com/user-attachments/assets/8227679b-aa35-4f98-a781-ce7826c8fd24)
+![Lecture-03-Notes-pg2 jpg](https://github.com/user-attachments/assets/5a3ff14d-d392-438b-b234-ec89da89f888)
+![Lecture-03-Notes-pg3 jpg](https://github.com/user-attachments/assets/28017924-079f-499b-8914-e014b58fd4b3)
