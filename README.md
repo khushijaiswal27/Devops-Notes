@@ -66,6 +66,6 @@ This repository documents my progress on **Day 4** of the DevOps series by **Tec
 - **Security:** Understood why Linux is more secure than Windows (Virus isolation within folders and no need for external Antivirus).
 - **Efficiency:** Linux is **lightweight** with a smaller footprint, making it faster and more stable for high-performance servers.
 
-# Day 3 Notes: 
+# Day 4 Notes: 
 ![Lecture-04-Notes-pg1 jpg](https://github.com/user-attachments/assets/14868e80-2fe0-413b-aa6b-708d94efaad5)
 ![Lecture-04-Notes-pg2 jpg](https://github.com/user-attachments/assets/c640ca7b-6530-4649-848a-7fd8da3a0f0c)
