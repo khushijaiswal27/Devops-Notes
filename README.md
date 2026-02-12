@@ -102,7 +102,7 @@ Today’s session was a deep dive into how Linux operates internally compared to
 ---
 **Learning Point:** In Linux, everything is either a **File** or a **Directory**. 🚀
 
-# Day 4 Notes: 
+# Day 5 Notes: 
 
 ![Lecture-05-Notes-pg1 jpg](https://github.com/user-attachments/assets/8aa14a36-4748-4b39-946f-42c1234b26b7)
 ![Lecture-05-Notes-pg2 jpg](https://github.com/user-attachments/assets/fe05d73f-7fb6-4343-af97-44c7071b0beb)
