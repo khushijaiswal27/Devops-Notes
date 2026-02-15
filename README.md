@@ -162,6 +162,10 @@ Save: Ctrl + O
 
 Exit: Ctrl + X
 
+📸 Lab Proof (Screenshot):-
+<img width="936" height="1015" alt="Screenshot 2026-02-15 194154" src="https://github.com/user-attachments/assets/625667cb-d8f0-4a41-b41a-5d98ebad797b" />
+
 # Day 6 Notes:
-
-
+![Lecture-06-Notes-pg1 jpg](https://github.com/user-attachments/assets/cf32000f-b1ba-4860-90a6-9677e62794f2)
+![Lecture-06-Notes-pg2 jpg](https://github.com/user-attachments/assets/d2bfbea2-a284-4d15-b72b-40fad09907b3)
+![Lecture-06-Notes-pg3 jpg](https://github.com/user-attachments/assets/06b58e10-d11c-4556-bd82-863610484f1d)
