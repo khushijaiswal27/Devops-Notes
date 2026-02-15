@@ -106,3 +106,62 @@ Today’s session was a deep dive into how Linux operates internally compared to
 
 ![Lecture-05-Notes-pg1 jpg](https://github.com/user-attachments/assets/8aa14a36-4748-4b39-946f-42c1234b26b7)
 ![Lecture-05-Notes-pg2 jpg](https://github.com/user-attachments/assets/fe05d73f-7fb6-4343-af97-44c7071b0beb)
+
+
+🐧 Day 6 - File Management & Editors in Linux
+
+In this session, I explored the core of the Linux File System. Understanding how to create and manipulate files is a foundational skill for any DevOps professional working with automation and configuration management.
+
+🎯 Learning Objectives
+Mastered the 4 primary ways to create files in Linux.
+
+Understood file metadata and Timestamps using the stat command.
+
+Practiced hands-on with CLI-based text editors (VI and Nano).
+
+Learned advanced listing techniques to find hidden system files.
+
+🛠️ File Creation Methods Practiced
+1. cat Command (Concatenate)
+Used for creating files and redirecting input directly from the terminal.
+
+Create & Write: cat > filename (Press Ctrl + D to save).
+
+Append Content: cat >> filename (Adds text without overwriting).
+
+View Content: cat filename
+
+2. touch Command
+Used to create empty files or manipulate timestamps.
+
+Command: touch <filename>
+
+Deep Dive (Timestamps): Using the stat command, I learned about:
+
+Access Time: When the file was last read.
+
+Modify Time: When the content was last changed.
+
+Change Time: When the metadata (permissions/owner) was updated.
+
+3. vi / vim Editor
+The industry-standard text editor for Linux.
+
+Insert Mode: Press i to enter edit mode.
+
+Command Mode: Press Esc to give commands.
+
+Save & Exit: :wq
+
+Force Quit: :q!
+
+4. nano Editor
+A user-friendly alternative for quick terminal-based editing.
+
+Save: Ctrl + O
+
+Exit: Ctrl + X
+
+# Day 6 Notes:
+
+
