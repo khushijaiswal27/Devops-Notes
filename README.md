@@ -380,3 +380,5 @@ Git: A local tool installed on my Linux machine to manage versions.
 GitHub: A cloud-based service that hosts Git repositories 
 
 # Day 11  Notes:
+![Lecture-11-Notes-pg1 jpg](https://github.com/user-attachments/assets/f9475ebb-ed81-43f2-acee-6b5545401b1a)
+![Lecture-11-Notes-pg2 jpg](https://github.com/user-attachments/assets/b7cc4364-f902-4480-a9cb-cd5e2dcc8499)
