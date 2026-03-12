@@ -1,3 +1,41 @@
+🚀 My DevOps Journey - Learning Journal
+Welcome to my daily learning log! This repository documents my step-by-step progress from a beginner to a DevOps professional.
+
+📌 Quick Navigation (Index)
+🐧 Phase 1: Linux & Git Fundamentals
+Day 1: Introduction to DevOps & SDLC
+
+Day 2: DevOps Lifecycle & Agile
+
+Day 3: AWS EC2 Setup & Monitoring
+
+Day 4: Linux History & Architecture
+
+Day 5: File System Hierarchy
+
+Day 6: File Creation & Text Editors
+
+Day 7: Directory Ops & File Management
+
+Day 8: YUM Package Manager & Utilities
+
+Day 9: User Management & File Linking
+
+Day 10: Linux Permissions & Ownership
+
+Day 11: Intro to Version Control (Git)
+
+Day 12: Git Architecture (The 3 Stages)
+
+Day 13: Global Config & GitHub Setup
+
+Day 14: Multi-Region Sync & .gitignore
+
+Day 15: Branching, Stashing & Merging
+
+Day 16: Git Revert, Tags & Cloning
+
+
 # My DevOps Journey - Day 1 🚀
 
 Today, I watched the first lecture of Technical Guftgu. 
