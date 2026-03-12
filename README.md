@@ -1,3 +1,27 @@
+# 🚀 My DevOps Journey - Learning Journal
+
+Welcome to my daily learning log! This repository documents my step-by-step progress from a beginner to a DevOps professional.
+
+## 📌 Quick Navigation (Index)
+
+### 🐧 Phase 1: Linux & Git Fundamentals
+* [Day 1: Introduction to DevOps & SDLC](#my-devops-journey---day-1-)
+* [Day 2: DevOps Lifecycle & Agile](#day-2-devops-lifecycle--agile-methodology-)
+* [Day 3: AWS EC2 Setup & Monitoring](#day-3-aws-ec2-setup-)
+* [Day 4: Linux History & Architecture](#day-4---everything-about-linux-from-scratch)
+* [Day 5: File System Hierarchy](#day-5---linux-architecture--file-system-hierarchy)
+* [Day 6: File Creation & Text Editors](#-day-6---file-management--editors-in-linux)
+* [Day 7: Directory Ops & File Management](#day-7---advanced-directory-management--file-operations)
+* [Day 8: YUM Package Manager & Utilities](#day-8-package-management--system-utilities)
+* [Day 9: User Management & File Linking](#-day-9-linux-user-management--file-linking)
+* [Day 10: Linux Permissions & Ownership](#-day-10-master-linux-permissions--ownership-)
+* [Day 11: Intro to Version Control (Git)](#-day-11--introduction-to-git-the-time-machine)
+* [Day 12: Git Architecture (The 3 Stages)](#day-12-git-lifecycle--architecture-)
+* [Day 13: Global Config & GitHub Setup](#day-13-git-installation--github-setup)
+* [Day 14: Multi-Region Sync & .gitignore](#lecture-14-git-operations--multi-region-sync)
+* [Day 15: Branching, Stashing & Merging](#day-15-git-branching-stashing-and-undo-operations-)
+* [Day 16: Revert, Tags & Cloning](#day-16-mastering-git-revert-tags-and-cloning-)
+
 
 # My DevOps Journey - Day 1 🚀
 
