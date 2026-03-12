@@ -2,26 +2,25 @@
 
 Welcome to my daily learning log! This repository documents my step-by-step progress from a beginner to a DevOps professional.
 
+<a name="top"></a>
 ## 📌 Quick Navigation (Index)
-
 ### 🐧 Phase 1: Linux & Git Fundamentals
-* [Day 1: Introduction to DevOps & SDLC](#my-devops-journey---day-1-)
+* [Day 1: Introduction to DevOps](#my-devops-journey---day-1-)
 * [Day 2: DevOps Lifecycle & Agile](#day-2-devops-lifecycle--agile-methodology-)
-* [Day 3: AWS EC2 Setup & Monitoring](#day-3-aws-ec2-setup-)
+* [Day 3: AWS EC2 Setup](#day-3-aws-ec2-setup-)
 * [Day 4: Linux History & Architecture](#day-4---everything-about-linux-from-scratch)
 * [Day 5: File System Hierarchy](#day-5---linux-architecture--file-system-hierarchy)
-* [Day 6: File Creation & Text Editors](#-day-6---file-management--editors-in-linux)
-* [Day 7: Directory Ops & File Management](#day-7---Advanced Directory Management & File Operations)
-* [Day 8: YUM Package Manager & Utilities](#day-8-package-management--system-utilities)
-* [Day 9: User Management & File Linking](#-day-9-linux-user-management--file-linking)
-* [Day 10: Linux Permissions & Ownership](#-day-10-master-linux-permissions--ownership-)
-* [Day 11: Intro to Version Control (Git)](#-day-11--introduction-to-git-the-time-machine)
-* [Day 12: Git Architecture (The 3 Stages)](#day-12-git-lifecycle--architecture-)
-* [Day 13: Global Config & GitHub Setup](#day-13-git-installation--github-setup)
-* [Day 14: Multi-Region Sync & .gitignore](#lecture-14-git-operations--multi-region-sync)
-* [Day 15: Branching, Stashing & Merging](#day-15-git-branching-stashing-and-undo-operations-)
-* [Day 16: Revert, Tags & Cloning](#day-16-mastering-git-revert-tags-and-cloning-)
-
+* [Day 6: File Management & Editors](#day-6---file-management--editors-in-linux)
+* [Day 7: Directory & File Operations](#day-7---advanced-directory-management--file-operations)
+* [Day 8: Package Management & YUM](#day-8-package-management--system-utilities)
+* [Day 9: User Management & Linking](#day-9-linux-user-management--file-linking)
+* [Day 10: Permissions & Ownership](#day-10-master-linux-permissions--ownership)
+* [Day 11: Introduction to Git](#day-11--introduction-to-git-the-time-machine)
+* [Day 12: Git Architecture & Lifecycle](#day-12-git-lifecycle--architecture-️)
+* [Day 13: Git Installation & GitHub](#day-13-git-installation--github-setup)
+* [Day 14: Multi-Region Sync](#lecture-14-git-operations--multi-region-sync)
+* [Day 15: Branching & Stashing](#day-15-git-branching-stashing-and-undo-operations-️)
+* [Day 16: Revert, Tags & Cloning](#day-16-mastering-git-revert-tags-and-cloning-️)
 
 # My DevOps Journey - Day 1 🚀
 
@@ -37,7 +36,9 @@ Today, I watched the first lecture of Technical Guftgu.
 ![WhatsApp Image 2026-02-05 at 7 37 42 PM](https://github.com/user-attachments/assets/53bac04b-4631-467b-8921-f6ad265adc8d)
 ![WhatsApp Image 2026-02-05 at 7 37 43 PM](https://github.com/user-attachments/assets/82a94e65-66b1-480d-9034-ac95e4f4310b)
 
-## Day 2: DevOps Lifecycle & Agile Methodology 🔄
+[⬆️ Back to Top](#top)
+
+### Day 2: DevOps Lifecycle & Agile Methodology 🔄
 
 Today, I focused on how teams collaborate and the various stages involved in software delivery.
 
@@ -52,7 +53,9 @@ Today, I focused on how teams collaborate and the various stages involved in sof
 ![WhatsApp Image 2026-02-06 at 1 33 26 PM (1)](https://github.com/user-attachments/assets/21d47a70-1629-450a-bd9b-e0273f59e0f6)
 ![WhatsApp Image 2026-02-06 at 1 33 26 PM (2)](https://github.com/user-attachments/assets/fdeb436c-6dbb-447a-b779-5cd3b1dc0295)
 
-## Day 3: AWS EC2 Setup 🔄
+[⬆️ Back to Top](#top)
+
+### Day 3: AWS EC2 Setup 🔄
 I have successfully launched and configured my first Linux server on AWS, following the Day 3 lecture of the DevOps series by Technical Guftgu (Imran Teli Sir).
 
 🚀 Key Highlights:
@@ -74,8 +77,9 @@ Health Verification: Successfully monitored and verified the instance with 3/3 S
 ![Lecture-03-Notes-pg2 jpg](https://github.com/user-attachments/assets/5a3ff14d-d392-438b-b234-ec89da89f888)
 ![Lecture-03-Notes-pg3 jpg](https://github.com/user-attachments/assets/28017924-079f-499b-8914-e014b58fd4b3)
 
+[⬆️ Back to Top](#top)
 
-#  Day 4 - Everything About Linux from Scratch
+### Day 4 - Everything About Linux from Scratch
 
 This repository documents my progress on **Day 4** of the DevOps series by **Technical Guftgu (Imran Teli Sir)**. Today, I dived deep into the history, architecture, and core features of the Linux Operating System.
 
@@ -95,8 +99,9 @@ This repository documents my progress on **Day 4** of the DevOps series by **Tec
 ![Lecture-04-Notes-pg1 jpg](https://github.com/user-attachments/assets/14868e80-2fe0-413b-aa6b-708d94efaad5)
 ![Lecture-04-Notes-pg2 jpg](https://github.com/user-attachments/assets/c640ca7b-6530-4649-848a-7fd8da3a0f0c)
 
+[⬆️ Back to Top](#top)
 
-# Day 5 - Linux Architecture & File System Hierarchy
+### Day 5 - Linux Architecture & File System Hierarchy
 
 Today’s session was a deep dive into how Linux operates internally compared to Windows and understanding the crucial "Root" file system structure.
 
@@ -132,8 +137,10 @@ Today’s session was a deep dive into how Linux operates internally compared to
 ![Lecture-05-Notes-pg1 jpg](https://github.com/user-attachments/assets/8aa14a36-4748-4b39-946f-42c1234b26b7)
 ![Lecture-05-Notes-pg2 jpg](https://github.com/user-attachments/assets/fe05d73f-7fb6-4343-af97-44c7071b0beb)
 
+[⬆️ Back to Top](#top)
 
-## Day 6 - File Management & Editors in Linux
+
+### Day 6 - File Management & Editors in Linux
 
 In this session, I explored the core of the Linux File System. Understanding how to create and manipulate files is a foundational skill for any DevOps professional working with automation and configuration management.
 
@@ -195,8 +202,10 @@ Exit: Ctrl + X
 ![Lecture-06-Notes-pg2 jpg](https://github.com/user-attachments/assets/d2bfbea2-a284-4d15-b72b-40fad09907b3)
 ![Lecture-06-Notes-pg3 jpg](https://github.com/user-attachments/assets/06b58e10-d11c-4556-bd82-863610484f1d)
 
+[⬆️ Back to Top](#top)
 
-# Day 7 - Advanced Directory Management & File Operations
+
+### Day 7 - Advanced Directory Management & File Operations
 
 In today's session with **Dr. Bhupendra Rajput**, I moved beyond basic file creation to mastering directory structures and essential file operations in Linux.
 
@@ -255,7 +264,9 @@ In today's session with **Dr. Bhupendra Rajput**, I moved beyond basic file crea
 ![Lecture-07-Notes-pg1 jpg](https://github.com/user-attachments/assets/75e56f75-c8dd-4939-aa70-501238fa0bb4)
 ![Lecture-07-Notes-pg2 jpg](https://github.com/user-attachments/assets/9e2ac7d7-7aa2-4813-b220-7c82cb36c7d0)
 
-## Day 8: Package Management & System Utilities🚀
+[⬆️ Back to Top](#top)
+
+### Day 8: Package Management & System Utilities🚀
 
 🚀 Topics Covered:
 
@@ -290,8 +301,10 @@ In today's session with **Dr. Bhupendra Rajput**, I moved beyond basic file crea
 ![Lecture-08-Notes-pg2 jpg](https://github.com/user-attachments/assets/206229d3-37fe-4d09-bfca-8b69b3811583)
 ![Lecture-08-Notes-pg3 jpg](https://github.com/user-attachments/assets/5d7949a1-96d6-4136-925f-7d4097b1a2ad)
 
+[⬆️ Back to Top](#top)
 
-# 🐧 Day 9: Linux User Management & File Linking
+
+### Day 9: Linux User Management & File Linking
 
 ## 👤 User & Group Administration
 * **`sudo useradd [username]`**: Used to create a new user in the system.
@@ -319,8 +332,10 @@ Acts as a mirror of the file data. Even if the original file is deleted, the dat
 ![Lecture-09-Notes-pg1 jpg](https://github.com/user-attachments/assets/ff1ea050-51cf-43e1-95d9-dcfd84abe68a)
 ![Lecture-09-Notes-pg2 jpg](https://github.com/user-attachments/assets/8004c1d9-b38c-4985-b402-b7c85c2d5088)
 
+[⬆️ Back to Top](#top)
 
-# 📂 Day 10: Master Linux Permissions & Ownership 🛡️
+
+### Day 10: Master Linux Permissions & Ownership 
 *(Inspired by TechGuftgu DevOps Series)*
 
 Today's learning was focused on the security layer of Linux. In DevOps, managing access is crucial for protecting servers and automation scripts.
@@ -385,10 +400,12 @@ To change only the group:
 ![Lecture-10-Notes-pg1 jpg](https://github.com/user-attachments/assets/602c84d6-ddbc-41f2-b2bf-d77d8aad8be1)
 ![Lecture-10-Notes-pg2 jpg](https://github.com/user-attachments/assets/d2111cfd-49af-4839-82ab-9a420edb20bb)
 
+[⬆️ Back to Top](#top)
 
 
+### Day 11 : Introduction to GIT (The Time Machine)
 
-🚀 # 📂 Day 11 : Introduction to GIT (The Time Machine):- Based on Technical Guftgu's tutorial, I've mastered the following concepts:
+Based on Technical Guftgu's tutorial, I've mastered the following concepts:
 
 🔹 What is Version Control?
 It’s a system that records changes to a file or set of files over time so that you can recall specific versions later.
@@ -407,8 +424,9 @@ GitHub: A cloud-based service that hosts Git repositories
 # Day 11  Notes:
 ![Lecture-11-Notes-pg1 jpg](https://github.com/user-attachments/assets/f9475ebb-ed81-43f2-acee-6b5545401b1a)
 ![Lecture-11-Notes-pg2 jpg](https://github.com/user-attachments/assets/b7cc4364-f902-4480-a9cb-cd5e2dcc8499)
+[⬆️ Back to Top](#top)
 
-# Day 12: Git Lifecycle & Architecture 🛠️
+### Day 12: Git Lifecycle & Architecture 🛠️
 
 Today, I deep-dived into the internal architecture of Git and how it tracks changes. Understanding the "Stages" is the foundation of becoming a DevOps Engineer.
 
@@ -447,8 +465,9 @@ Every commit is assigned a unique 40-character **SHA-1 Hash ID** (e.g., `5a3f92.
 ![Lecture-12-Notes-pg3 jpg](https://github.com/user-attachments/assets/82f27318-eaa5-4b23-b2e2-bcc6068408f7)
 ![Lecture-12-Notes-pg4 jpg](https://github.com/user-attachments/assets/cf61783b-d824-46b3-8ad3-a03cd18872e7)
 ![Lecture-12-Notes-pg5 jpg](https://github.com/user-attachments/assets/1f1d4597-9f18-4135-bd1b-0aaf7fbb6984)
+[⬆️ Back to Top](#top)
 
-# Day 13: Git Installation & GitHub Setup
+### Day 13: Git Installation & GitHub Setup
 In this session, I learned how to establish coordination between a Central Repository (GitHub) and Local Repositories (AWS EC2 Instances).
 
 🛠️ Key Learnings & Tasks Performed:
@@ -487,8 +506,9 @@ Explored the GitHub UI and understood the workflow of a Central Repository.
 
   # Day13 notes-
 ![WhatsApp Image 2026-03-01 at 2 45 17 PM](https://github.com/user-attachments/assets/ef53d76b-8069-40d7-8829-4d1335f834fc)
+[⬆️ Back to Top](#top)
 
-# Lecture 14: Git Operations & Multi-Region Sync:-
+### Lecture 14: Git Operations & Multi-Region Sync
 
 This session focused on collaborating between multiple local repositories and a single central repository.
 
@@ -515,7 +535,9 @@ Downloaded (Pulled) the same code onto the Singapore instance.
  ![Lecture-14-Notes-pg1 jpg](https://github.com/user-attachments/assets/96ec96b8-32d6-4bed-908c-0784d79a7eea)
 ![Lecture-14-Notes-pg2 jpg](https://github.com/user-attachments/assets/e9f58af4-ffc0-40cf-84c0-02a773e6f583)
 
-## Day 15: Git Branching, Stashing, and Undo Operations 🛠️
+[⬆️ Back to Top](#top)
+
+### Day 15: Git Branching, Stashing, and Undo Operations 🛠️
 
 Today’s session focused on advanced Git workflows, specifically how to manage parallel development and revert mistakes.
 
@@ -541,8 +563,10 @@ Today’s session focused on advanced Git workflows, specifically how to manage 
 ![Lecture-15-Notes-pg3 jpg](https://github.com/user-attachments/assets/d63941c0-b3c3-4f8d-8e83-d47b41c17b91)
 ![Lecture-15-Notes-pg4 jpg](https://github.com/user-attachments/assets/fccd2241-0238-41b1-a57b-57f629567b45)
 
+[⬆️ Back to Top](#top)
 
-## Day 16: Mastering Git Revert, Tags, and Cloning 🛠️
+
+### Day 16: Mastering Git Revert, Tags, and Cloning 🛠️
 
 Today I learned how to undo public changes and organize my code efficiently using tags and cloning.
 
@@ -566,3 +590,5 @@ Today I learned how to undo public changes and organize my code efficiently usin
  # Day 16  notes-
 ![Lecture-16-Notes-pg1 jpg](https://github.com/user-attachments/assets/a7937540-00a6-4227-8bd2-2518bd434513)
 ![Lecture-16-Notes-pg2 jpg](https://github.com/user-attachments/assets/ee57acca-027a-4fb6-9287-e215a499b4b2)
+
+[⬆️ Back to Top](#top)
