@@ -133,7 +133,7 @@ Today’s session was a deep dive into how Linux operates internally compared to
 ![Lecture-05-Notes-pg2 jpg](https://github.com/user-attachments/assets/fe05d73f-7fb6-4343-af97-44c7071b0beb)
 
 
-🐧 Day 6 - File Management & Editors in Linux
+## Day 6 - File Management & Editors in Linux
 
 In this session, I explored the core of the Linux File System. Understanding how to create and manipulate files is a foundational skill for any DevOps professional working with automation and configuration management.
 
