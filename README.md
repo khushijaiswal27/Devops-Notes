@@ -4,6 +4,7 @@ Welcome to my daily learning log! This repository documents my step-by-step prog
 
 <a name="top"></a>
 ## 📌 Quick Navigation (Index)
+
 ### 🐧 Phase 1: Linux & Git Fundamentals
 * [Day 1: Introduction to DevOps](#my-devops-journey---day-1-)
 * [Day 2: DevOps Lifecycle & Agile](#day-2-devops-lifecycle--agile-methodology-)
@@ -22,6 +23,10 @@ Welcome to my daily learning log! This repository documents my step-by-step prog
 * [Day 15: Branching & Stashing](#day-15-git-branching-stashing-and-undo-operations-️)
 * [Day 16: Revert, Tags & Cloning](#day-16-mastering-git-revert-tags-and-cloning-️)
 
+### 🐧 Phase 2: Shell Scripting Masterclass
+* [Day 17: Shell Scripting Fundamentals](#day-17-shell-scripting-fundamentals-hour-1)
+* [Day 18: Logic, Loops & Automation](#day-18-logic-loops--automation-hour-2)
+  
 # My DevOps Journey - Day 1 🚀
 
 Today, I watched the first lecture of Technical Guftgu. 
@@ -592,3 +597,67 @@ Today I learned how to undo public changes and organize my code efficiently usin
 ![Lecture-16-Notes-pg2 jpg](https://github.com/user-attachments/assets/ee57acca-027a-4fb6-9287-e215a499b4b2)
 
 [⬆️ Back to Top](#top)
+
+### Day 17: Shell Scripting Fundamentals (Hour 1)
+
+Today, I officially started my Shell Scripting journey with M Prashant’s Masterclass. This phase is all about automating the manual Linux tasks I've learned so far.
+
+🎯 Key Learnings:
+
+- Shell & Kernel: Built a clear understanding of how the Shell acts as an interface between the user and the Linux Kernel.
+
+- The Shebang: Learned why #!/bin/bash is mandatory at the start of every script to tell the system which interpreter to use.
+
+- Execution: Mastered running scripts using bash script.sh and the importance of executable permissions.
+
+- Variables: Practiced User-Defined Variables and used the readonly keyword to create constants that cannot be changed.
+
+- Arrays & Strings: Learned to store multiple values in Arrays and performed advanced string operations like Slicing ${var:offset:len} and Case Conversion ${var^^}.
+
+- 📸 Lab Proof (Screenshot):
+<img width="753" height="90" alt="Screenshot 2026-03-09 200519" src="https://github.com/user-attachments/assets/22d747d0-5000-46c6-8217-4556c755ce65" />
+<img width="882" height="1000" alt="Screenshot 2026-03-09 200601" src="https://github.com/user-attachments/assets/d2293a7c-afa8-45f7-8dec-1c967f81497b" />
+
+
+### Day 18: Logic, Loops & Automation (Hour 2+)
+Today’s session was a deep dive into the "Logic" of scripting. I covered everything from decision-making to repetitive task automation (up to 2:23:42 in the masterclass).
+
+🎯 Key Learnings:
+
+- Conditional Logic (If-Else): Learned to use if, else, and elif to make scripts smart.
+
+- Numerical Operators: Mastered comparisons using -eq (equal), -gt (greater than), and -ne (not equal).
+
+- Case Statements: Used case for creating clean, menu-driven scripts (a better alternative to multiple if-else).
+
+- Logical Operators: Combined conditions using AND (&&) and OR (||) for complex checks.
+
+- Loops (For & While): - For Loop: Perfect for iterating over fixed lists or ranges.
+
+- While Loop: Essential for tasks that run as long as a condition is true.
+
+- File Reading: Successfully implemented a script to read and process a text file line-by-line using a while loop.
+
+🛠️ Scripts Created : 
+
+08_user_int.sh -	User Interaction / Input
+09_arithmetic_ops.sh -	Mathematical Operations
+10_if_else.sh -	Basic Decision Making
+11_elif_demo.sh -	Multi-condition Logic
+12_case_demo.sh -	Menu-driven Programming
+13_logical_ops.sh -	AND/OR conditions
+14_ternary_ops.sh -	Short-hand If-Else
+15_forloop1.sh -	Basic Iteration
+16_for_with_file.sh -	Reading files using For loop
+17_while_demo.sh -	Conditional Looping
+18_until_loop.sh -	Reverse condition loops
+19_infinite_loop.sh -	Understanding process control
+21_while_with_file.sh -	Line-by-line Text processing
+22_while_with_csv.sh - Automating Data/CSV parsing
+
+- 📸 Lab Proof (Screenshot):
+  <img width="822" height="222" alt="Screenshot 2026-03-12 160855" src="https://github.com/user-attachments/assets/33d87e09-7f82-4ac5-897d-f73ffa954ae1" />
+[⬆️ Back to Top](#top)
+
+
+
