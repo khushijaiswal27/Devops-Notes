@@ -11,7 +11,7 @@ Welcome to my daily learning log! This repository documents my step-by-step prog
 * [Day 4: Linux History & Architecture](#day-4---everything-about-linux-from-scratch)
 * [Day 5: File System Hierarchy](#day-5---linux-architecture--file-system-hierarchy)
 * [Day 6: File Creation & Text Editors](#-day-6---file-management--editors-in-linux)
-* [Day 7: Directory Ops & File Management](#day-7---advanced-directory-management--file-operations)
+* [Day 7: Directory Ops & File Management](#day-7---Advanced Directory Management & File Operations)
 * [Day 8: YUM Package Manager & Utilities](#day-8-package-management--system-utilities)
 * [Day 9: User Management & File Linking](#-day-9-linux-user-management--file-linking)
 * [Day 10: Linux Permissions & Ownership](#-day-10-master-linux-permissions--ownership-)
