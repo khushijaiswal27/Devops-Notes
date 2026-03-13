@@ -26,6 +26,8 @@ Welcome to my daily learning log! This repository documents my step-by-step prog
 ### 🐧 Phase 2: Shell Scripting Masterclass
 * [Day 17: Shell Scripting Fundamentals](#day-17-shell-scripting-fundamentals-hour-1)
 * [Day 18: Logic, Loops & Automation](#day-18-logic-loops--automation-hour-2)
+* [Day 19: Arrays, String Manipulation & Path Utilities](#day-19-arrays-string-manipulation--path-utilities)
+  
   
 # My DevOps Journey - Day 1 🚀
 
@@ -660,7 +662,7 @@ Today’s session was a deep dive into the "Logic" of scripting. I covered every
 [⬆️ Back to Top](#top)
 
 
-### Day 3: Arrays, String Manipulation & Path Utilities 🐚
+### Day 19: Arrays, String Manipulation & Path Utilities 
 
 I have completed the segment from 2:29:50 to 3:19:57 of M Prashant's Shell Scripting Masterclass. This session focused on advanced data structures and essential system utilities.
 
