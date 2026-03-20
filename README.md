@@ -28,6 +28,7 @@ Welcome to my daily learning log! This repository documents my step-by-step prog
 * [Day 18: Logic, Loops & Automation](#day-18-logic-loops--automation-hour-2)
 * [Day 19: Arrays, String Manipulation & Path Utilities](#day-19-arrays-string-manipulation--path-utilities)
 * [Day 20: Script Automation & Job Scheduling](#day-20-script-automation--job-scheduling-)
+* [📂 Day 21: Shell Scripting DevOps Projects Portfolio](#day-21-shell-scripting-devops-projects-portfolio)
   
   
 # My DevOps Journey - Day 1 🚀
@@ -722,7 +723,6 @@ Used for **recurring** tasks (Daily/Weekly/Monthly).
 
 ### 5. Essential Setup on EC2
 If the cron service is missing on an Amazon Linux/EC2 instance:
-```bash
 sudo yum install cronie -y
 sudo systemctl start crond
 sudo systemctl enable crond
@@ -730,10 +730,10 @@ sudo systemctl enable crond
 📸 Lab Proof (Screenshot):
 <img width="927" height="1007" alt="Screenshot 2026-03-17 181859" src="https://github.com/user-attachments/assets/ac95bf37-f3bd-44b0-b88a-1af378e1dd34" />
 <img width="927" height="1007" alt="Screenshot 2026-03-17 181859" src="https://github.com/user-attachments/assets/fa84a421-6744-43f3-9822-7b769c6ffe93" />
-
 [⬆️ Back to Top](#top)
 
- ### Day 21: Shell Scripting DevOps Projects Portfolio 📂
+
+## Day 21: Shell Scripting DevOps Projects Portfolio
 
 This repository contains real-world Shell Scripts developed during Day 21 of the Shell Scripting Masterclass. These projects focus on automating System Administration and monitoring tasks.
 
