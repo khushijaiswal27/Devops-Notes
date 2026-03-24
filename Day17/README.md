@@ -1,24 +1,20 @@
-### Day 16: Mastering Git Revert, Tags, and Cloning 🛠️
+### Day 17: Shell Scripting Fundamentals (Hour 1)
 
-Today I learned how to undo public changes and organize my code efficiently using tags and cloning.
+Today, I officially started my Shell Scripting journey with M Prashant’s Masterclass. This phase is all about automating the manual Linux tasks I've learned so far.
 
-### Key Concepts Covered:
-- **Git Revert vs. Git Reset**: Understood that `git reset` is for local/private changes before commit, while `git revert` is used for public/committed changes. It creates a new commit to undo a previous one without deleting history.
-- **Git Tags**: Learned how to label specific commits (like v1.0, Important) so they can be easily identified without remembering commit IDs.
-- **Git Clone**: Practiced copying an entire remote repository from GitHub to my local Linux server automatically.
-- **Git Clean**: Used `git clean -f` to remove untracked files and keep the workspace tidy.
+🎯 Key Learnings:
 
-"Reverting is the safe way to undo mistakes in a collaborative environment." 🚀
+- Shell & Kernel: Built a clear understanding of how the Shell acts as an interface between the user and the Linux Kernel.
+
+- The Shebang: Learned why #!/bin/bash is mandatory at the start of every script to tell the system which interpreter to use.
+
+- Execution: Mastered running scripts using bash script.sh and the importance of executable permissions.
+
+- Variables: Practiced User-Defined Variables and used the readonly keyword to create constants that cannot be changed.
+
+- Arrays & Strings: Learned to store multiple values in Arrays and performed advanced string operations like Slicing ${var:offset:len} and Case Conversion ${var^^}.
 
 - 📸 Lab Proof (Screenshot):
-<img width="893" height="516" alt="Screenshot 2026-03-05 143908" src="https://github.com/user-attachments/assets/3b22a498-4df8-4538-b0f0-b6d4a47d79c7" />
-<img width="902" height="1015" alt="Screenshot 2026-03-05 143947" src="https://github.com/user-attachments/assets/0de6d95c-be2b-499c-b35e-9328e4d5f721" />
-<img width="804" height="505" alt="Screenshot 2026-03-05 144050" src="https://github.com/user-attachments/assets/8ec0bd5d-e5a0-4ba6-b270-7e0e13af9856" />
-<img width="896" height="886" alt="Screenshot 2026-03-05 144216" src="https://github.com/user-attachments/assets/e24ece3a-b2c0-400b-b5e4-0ad124eb4bd3" />
-<img width="929" height="931" alt="Screenshot 2026-03-05 144840" src="https://github.com/user-attachments/assets/612a9c77-a7d5-4bd9-a308-66c31e067122" />
-<img width="937" height="1017" alt="Screenshot 2026-03-05 145007" src="https://github.com/user-attachments/assets/26f4bf66-cd23-4934-a2e3-5055f28a657a" />
-<img width="923" height="1016" alt="Screenshot 2026-03-05 150654" src="https://github.com/user-attachments/assets/40b2e539-578e-46e7-95b5-27498a3f92b4" />
+<img width="753" height="90" alt="Screenshot 2026-03-09 200519" src="https://github.com/user-attachments/assets/22d747d0-5000-46c6-8217-4556c755ce65" />
+<img width="882" height="1000" alt="Screenshot 2026-03-09 200601" src="https://github.com/user-attachments/assets/d2293a7c-afa8-45f7-8dec-1c967f81497b" />
 
- # Day 16  notes-
-![Lecture-16-Notes-pg1 jpg](https://github.com/user-attachments/assets/a7937540-00a6-4227-8bd2-2518bd434513)
-![Lecture-16-Notes-pg2 jpg](https://github.com/user-attachments/assets/ee57acca-027a-4fb6-9287-e215a499b4b2)
