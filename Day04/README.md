@@ -1,5 +1,43 @@
 ### Day 4 - Everything About Linux from Scratch
 
+## Task
+Today’s goal is to **understand how Linux works under the hood**.
+
+You will create a short note that explains:
+- The core components of Linux (kernel, user space, init/systemd)
+- How processes are created and managed
+- What systemd does and why it matters
+
+This is the foundation for all troubleshooting you will do as a DevOps engineer.
+
+---
+
+## Expected Output
+By the end of today, you should have:
+
+- A markdown file named:  
+  `linux-architecture-notes.md`
+
+or
+
+- A hand written set of notes (Recommended)
+
+Your notes should be clear enough that someone new to Linux can follow them.
+
+---
+
+## Why This Matters for DevOps
+Linux is the base OS for almost every production system.
+
+If you know how processes and systemd work, you can:
+- Debug crashed services faster
+- Fix CPU/memory issues
+- Understand logs and service restarts confidently
+
+This knowledge saves hours during incidents.
+
+---
+
 This repository documents my progress on **Day 4** of the DevOps series by **Technical Guftgu (Imran Teli Sir)**. Today, I dived deep into the history, architecture, and core features of the Linux Operating System.
 
 ## 🎯 Lab Objectives
