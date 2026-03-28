@@ -1,6 +1,6 @@
 # My DevOps Journey - Day 1 🚀
 
-## Task : 
+## Task 1 : 
 Today’s goal is to set the foundation for your DevOps journey.
 
 You will create a 90-day personal DevOps learning plan that clearly defines:
