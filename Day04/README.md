@@ -1,6 +1,6 @@
 ### Day 4 - Everything About Linux from Scratch
 
-## Task 1
+## Task 2
 Today’s goal is to **understand how Linux works under the hood**.
 
 You will create a short note that explains:
@@ -38,7 +38,7 @@ This knowledge saves hours during incidents.
 
 ---
 
-## Task 2
+## Task 3
 Today’s goal is to **practice Linux fundamentals with real commands**.
 
 You will create a short practice note by actually running basic commands and capturing what you see:
