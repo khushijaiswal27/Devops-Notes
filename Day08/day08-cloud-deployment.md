@@ -1,0 +1,39 @@
+## Part 1 
+- Launch Cloud instance : <br>
+Command : Create an instance <br>
+Command : Connect with SSh
+
+## Part 2
+- Install Nginx & Docker
+
+- step 1 : firstly update the system <br>
+Command : sudo apt update
+
+- step 2 : install nginx <br>
+Command : sudo apt install nginx
+
+- step 3 : Varify nginx <br>
+Command : systemctl status nginx <br>
+Output : nginx service active and enabled
+
+- step 4 : Next install docker<br>
+Command : sudo install docker.io
+
+- step 5 : varify docker running <br>
+Command : systemctl status docker <br>
+Output : docker active and enabled
+
+## Part 3
+- Test Web access via public ip
+
+- step 1 : First check nginx can accessible from public ip and if not then configure the security group 
+- step 2 : Go to security group and open port 80 for all 0.0.0.0 
+- step 3 : reload browser now nginx running
+
+## Part 4
+- Extract nginx logs
+
+- step 1 : To see the logs <br>
+Command : journalctl -u nginx -n 20 
+- step 2 : save logs <br>
+Commands : journalctl -u nginx -n 20 | tee -a nginx-logs.txt
