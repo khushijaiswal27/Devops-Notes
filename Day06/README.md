@@ -69,6 +69,8 @@ If you can handle files quickly, you can debug and automate faster.
 ---
 
 
+
+
 In this session, I explored the core of the Linux File System. Understanding how to create and manipulate files is a foundational skill for any DevOps professional working with automation and configuration management.
 
 🎯 Learning Objectives
