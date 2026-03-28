@@ -1,15 +1,14 @@
 ### Day 5 - Linux Architecture & File System Hierarchy
 
-## Linux Commands Practice
-## Task
-Today’s goal is to **build your Linux command confidence**.
+## Task 4
+Today’s goal is to **practice Linux fundamentals with real commands**.
 
-You will create a cheat sheet of commands focused on:
-- Process management
-- File system
-- Networking troubleshooting
+You will create a short practice note by actually running basic commands and capturing what you see:
+- Check running processes
+- Inspect one systemd service
+- Capture a small troubleshooting flow
 
-This is the command toolkit you will reuse for years.
+This is hands-on. Keep it simple and focused on fundamentals.
 
 ---
 
@@ -17,35 +16,43 @@ This is the command toolkit you will reuse for years.
 By the end of today, you should have:
 
 - A markdown file named:  
-  `linux-commands-cheatsheet.md`
+  `linux-practice.md`
 
 or
 
-- A hand written cheat sheet (Recommended)
+- A hand written practice log (Recommended)
 
-Your cheat sheet should be easy to scan during real troubleshooting.
+Your note should show what you actually ran on your system.
 
 ---
 
 ## Guidelines
-Follow these rules while creating your cheat sheet:
+Follow these rules while creating your practice note:
 
-- Include **at least 20 commands** with one‑line usage notes
-- Add **3 networking commands** (`ping`, `ip addr`, `dig`, `curl`, etc.)
-- Group commands by category
-- Keep it concise and readable
+- Run and record output for **at least 6 commands**
+- Include **2 process commands** (`ps`, `top`, `pgrep`, etc.)
+- Include **2 service commands** (`systemctl status`, `systemctl list-units`, etc.)
+- Include **2 log commands** (`journalctl -u <service>`, `tail -n 50`, etc.)
+- Pick **one service on your system** (example: `ssh`, `cron`, `docker`) and inspect it
+- Keep it **simple and actionable**
+
+Suggested structure for `linux-practice.md`:
+- Process checks
+- Service checks
+- Log checks
+- Mini troubleshooting steps
+
+---
+## Why This Matters for DevOps
+Hands‑on practice builds speed and confidence.
+
+When issues happen in production, you won’t have time to search for basic commands.  
+This day helps you build muscle memory with Linux fundamentals.
 
 ---
 
-## Why This Matters for DevOps
-Real production issues are solved at the command line.
 
-The faster you can inspect logs and network issues, the faster you can:
-- Restore service
-- Reduce downtime
-- Gain trust as an operator
 
-  
 Today’s session was a deep dive into how Linux operates internally compared to Windows and understanding the crucial "Root" file system structure.
 
 ## 🎯 Lab Objectives
