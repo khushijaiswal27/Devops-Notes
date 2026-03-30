@@ -15,127 +15,93 @@ Today, I officially started my Shell Scripting journey with M Prashant’s Maste
 - Arrays & Strings: Learned to store multiple values in Arrays and performed advanced string operations like Slicing ${var:offset:len} and Case Conversion ${var^^}.
 
 ### Task 21 
+Start your shell scripting journey — learn the fundamentals every script needs.
 
-You've spent the last several days learning Shell scripting — from basics to real-world projects. Now it's time to consolidate everything into a **personal cheat sheet** that you can use as a quick-reference guide for the rest of your DevOps journey.
-
-The best way to revise is to **teach it back**. Writing a cheat sheet forces you to organize your understanding and identify gaps.
+You will:
+- Understand **shebang** (`#!/bin/bash`) and why it matters
+- Work with **variables**, **echo**, and **read**
+- Write basic **if-else** conditions
 
 ---
 
 ## Expected Output
-- A markdown file: `shell_scripting_cheatsheet.md`
+- A markdown file: `day-16-shell-scripting.md`
+- All scripts you write during the tasks
 
 ---
 
 ## Challenge Tasks
 
-### Task 1: Basics
-Document the following with short descriptions and examples:
-1. Shebang (`#!/bin/bash`) — what it does and why it matters
-2. Running a script — `chmod +x`, `./script.sh`, `bash script.sh`
-3. Comments — single line (`#`) and inline
-4. Variables — declaring, using, and quoting (`$VAR`, `"$VAR"`, `'$VAR'`)
-5. Reading user input — `read`
-6. Command-line arguments — `$0`, `$1`, `$#`, `$@`, `$?`
+### Task 1: Your First Script
+1. Create a file `hello.sh`
+2. Add the shebang line `#!/bin/bash` at the top
+3. Print `Hello, DevOps!` using `echo`
+4. Make it executable and run it
+
+```bash
+chmod +x hello.sh
+./hello.sh
+```
+
+**Document:** What happens if you remove the shebang line?
 
 ---
 
-### Task 2: Operators and Conditionals
-Document with examples:
-1. String comparisons — `=`, `!=`, `-z`, `-n`
-2. Integer comparisons — `-eq`, `-ne`, `-lt`, `-gt`, `-le`, `-ge`
-3. File test operators — `-f`, `-d`, `-e`, `-r`, `-w`, `-x`, `-s`
-4. `if`, `elif`, `else` syntax
-5. Logical operators — `&&`, `||`, `!`
-6. Case statements — `case ... esac`
+### Task 2: Variables
+1. Create `variables.sh` with:
+   - A variable for your `NAME`
+   - A variable for your `ROLE` (e.g., "DevOps Engineer")
+   - Print: `Hello, I am <NAME> and I am a <ROLE>`
+2. Try using single quotes vs double quotes — what's the difference?
 
 ---
 
-### Task 3: Loops
-Document with examples:
-1. `for` loop — list-based and C-style
-2. `while` loop
-3. `until` loop
-4. Loop control — `break`, `continue`
-5. Looping over files — `for file in *.log`
-6. Looping over command output — `while read line`
+### Task 3: User Input with read
+1. Create `greet.sh` that:
+   - Asks the user for their name using `read`
+   - Asks for their favourite tool
+   - Prints: `Hello <name>, your favourite tool is <tool>`
 
 ---
 
-### Task 4: Functions
-Document with examples:
-1. Defining a function — `function_name() { ... }`
-2. Calling a function
-3. Passing arguments to functions — `$1`, `$2` inside functions
-4. Return values — `return` vs `echo`
-5. Local variables — `local`
+### Task 4: If-Else Conditions
+1. Create `check_number.sh` that:
+   - Takes a number using `read`
+   - Prints whether it is **positive**, **negative**, or **zero**
+
+2. Create `file_check.sh` that:
+   - Asks for a filename
+   - Checks if the file **exists** using `-f`
+   - Prints appropriate message
 
 ---
 
-### Task 5: Text Processing Commands
-Document the most useful flags/patterns for each:
-1. `grep` — search patterns, `-i`, `-r`, `-c`, `-n`, `-v`, `-E`
-2. `awk` — print columns, field separator, patterns, `BEGIN/END`
-3. `sed` — substitution, delete lines, in-place edit
-4. `cut` — extract columns by delimiter
-5. `sort` — alphabetical, numerical, reverse, unique
-6. `uniq` — deduplicate, count
-7. `tr` — translate/delete characters
-8. `wc` — line/word/char count
-9. `head` / `tail` — first/last N lines, follow mode
+### Task 5: Combine It All
+Create `server_check.sh` that:
+1. Stores a service name in a variable (e.g., `nginx`, `sshd`)
+2. Asks the user: "Do you want to check the status? (y/n)"
+3. If `y` — runs `systemctl status <service>` and prints whether it's **active** or **not**
+4. If `n` — prints "Skipped."
 
 ---
 
-### Task 6: Useful Patterns and One-Liners
-Include at least 5 real-world one-liners you find useful. Examples:
-- Find and delete files older than N days
-- Count lines in all `.log` files
-- Replace a string across multiple files
-- Check if a service is running
-- Monitor disk usage with alerts
-- Parse CSV or JSON from command line
-- Tail a log and filter for errors in real time
+## Hints
+- Shebang: `#!/bin/bash` tells the system which interpreter to use
+- Variables: `NAME="Shubham"` (no spaces around `=`)
+- Read: `read -p "Enter name: " NAME`
+- If syntax: `if [ condition ]; then ... elif ... else ... fi`
+- File check: `if [ -f filename ]; then`
 
 ---
 
-### Task 7: Error Handling and Debugging
-Document with examples:
-1. Exit codes — `$?`, `exit 0`, `exit 1`
-2. `set -e` — exit on error
-3. `set -u` — treat unset variables as error
-4. `set -o pipefail` — catch errors in pipes
-5. `set -x` — debug mode (trace execution)
-6. Trap — `trap 'cleanup' EXIT`
+## Documentation
+
+Create `day-16-shell-scripting.md` with:
+- Each script's code and output
+- What you learned (3 key points)
 
 ---
 
-### Task 8: Bonus — Quick Reference Table
-Create a summary table like this at the top of your cheat sheet:
-
-| Topic | Key Syntax | Example |
-|-------|-----------|---------|
-| Variable | `VAR="value"` | `NAME="DevOps"` |
-| Argument | `$1`, `$2` | `./script.sh arg1` |
-| If | `if [ condition ]; then` | `if [ -f file ]; then` |
-| For loop | `for i in list; do` | `for i in 1 2 3; do` |
-| Function | `name() { ... }` | `greet() { echo "Hi"; }` |
-| Grep | `grep pattern file` | `grep -i "error" log.txt` |
-| Awk | `awk '{print $1}' file` | `awk -F: '{print $1}' /etc/passwd` |
-| Sed | `sed 's/old/new/g' file` | `sed -i 's/foo/bar/g' config.txt` |
-
----
-
-## Format Guidelines
-
-Your cheat sheet should be:
-- Written in **Markdown** (`.md`)
-- Organized with **clear headings** for each section
-- Include **code blocks** with syntax highlighting (` ```bash `)
-- Keep explanations **short** — 1-2 lines max per item
-- Focus on **practical examples** over theory
-- Something **you would actually refer back to** on the job
-
----
 
 
 - 📸 Lab Proof (Screenshot):
