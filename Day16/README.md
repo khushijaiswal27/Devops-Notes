@@ -1,5 +1,7 @@
 ### Day 16: Mastering Git Revert, Tags, and Cloning 🛠️
+
 ##Task 20 :
+
 Your GitHub profile is your **developer resume**. Recruiters, hiring managers, and open-source maintainers will look at your GitHub before your LinkedIn. Today, you'll clean up your profile, organize your repositories, and create a profile README that tells your story.
 
 This is not a coding day — it's a **branding day**. Treat it seriously.
