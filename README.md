@@ -5,7 +5,7 @@ Welcome to my daily learning log! This repository documents my step-by-step prog
 <a name="top"></a>
 ## 📌 Quick Navigation (Index)
 
-### 🐧 Phase 1: Linux & Git Fundamentals
+### 🐧 Linux 
 * [Day 1: Introduction to DevOps](#my-devops-journey---day-1-)
 * [Day 2: DevOps Lifecycle & Agile](#day-2-devops-lifecycle--agile-methodology-)
 * [Day 3: AWS EC2 Setup](#day-3-aws-ec2-setup-)
@@ -16,6 +16,8 @@ Welcome to my daily learning log! This repository documents my step-by-step prog
 * [Day 8: Package Management & YUM](#day-8-package-management--system-utilities)
 * [Day 9: User Management & Linking](#day-9-linux-user-management--file-linking)
 * [Day 10: Permissions & Ownership](#day-10-master-linux-permissions--ownership)
+
+### 🐧 Git Fundamentals
 * [Day 11: Introduction to Git](#day-11--introduction-to-git-the-time-machine)
 * [Day 12: Git Architecture & Lifecycle](#day-12-git-lifecycle--architecture-️)
 * [Day 13: Git Installation & GitHub](#day-13-git-installation--github-setup)
@@ -23,7 +25,7 @@ Welcome to my daily learning log! This repository documents my step-by-step prog
 * [Day 15: Branching & Stashing](#day-15-git-branching-stashing-and-undo-operations-️)
 * [Day 16: Revert, Tags & Cloning](#day-16-mastering-git-revert-tags-and-cloning-️)
 
-### 🐧 Phase 2: Shell Scripting Masterclass
+### 🐧  Shell Scripting Masterclass
 * [Day 17: Shell Scripting Fundamentals](#day-17-shell-scripting-fundamentals-hour-1)
 * [Day 18: Logic, Loops & Automation](#day-18-logic-loops--automation-hour-2)
 * [Day 19: Arrays, String Manipulation & Path Utilities](#day-19-arrays-string-manipulation--path-utilities)
